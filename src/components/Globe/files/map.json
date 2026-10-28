@@ -1,0 +1,155 @@
+{
+    "type": "Map",
+    "maps": [
+        {
+            "text": "Cape town",
+            "size": 1.0,
+            "icon": "",
+            "country": "Africa",
+            "city": "Cape town",
+            "lat": "-33.9221",
+            "lng": "18.423",
+            "imgsrc": "./assets/southAfrica.svg"
+        },
+        {
+            "icon": "",
+            "text": "Jakarta",
+            "size": 1.0,
+            "country": "Indonesia",
+            "city": "Jakarta",
+            "lat": "-6.1944",
+            "lng": "106.8229",
+            "imgsrc": "./assets/Indonesia.svg"
+        },
+        {
+            "icon": "",
+            "text": "CAR",
+            "size": 1.0,
+            "country": "Egypt",
+            "city": "Cairo",
+            "lat": "30.0444",
+            "lng": "31.2357",
+            "imgsrc": "./assets/Egypt.svg"
+        },
+        {
+            "icon": "",
+            "text": "PHL",
+            "size": 1.0,
+            "country": "Philippines",
+            "city": "Manila",
+            "lat": "14.5995",
+            "lng": "120.9842",
+            "imgsrc": "./assets/Philippines.svg"
+        },
+        {
+            "icon": "",
+            "text": "COL",
+            "size": 1.0,
+            "country": "Sri Lanka",
+            "city": "Colombo",
+            "lat": "6.9271",
+            "lng": "79.8612",
+            "imgsrc": "./assets/SriLanka.svg"
+        },
+        {
+            "icon": "",
+            "text": "NEP",
+            "size": 1.0,
+            "country": "Nepal",
+            "city": "Kathmandu",
+            "lat": "27.7172",
+            "lng": "85.3240",
+            "imgsrc": "./assets/Nepal.svg"
+        },
+        {
+            "icon": "",
+            "text": "DHK",
+            "size": 1.0,
+            "country": "⁠Bangladesh",
+            "city": "Dhaka",
+            "lat": "23.8041",
+            "lng": "90.4152",
+            "imgsrc": "./assets/Bangladesh.svg"
+        },
+        {
+            "icon": "",
+            "text": "ISL",
+            "size": 1.0,
+            "country": "⁠Pakistan",
+            "city": "Islamabad",
+            "lat": "33.738045",
+            "lng": "73.084488",
+            "imgsrc": "./assets/Pakistan.svg"
+        },
+        {
+            "icon": "",
+            "text": "LONDON",
+            "size": 1.0,
+            "country": "United Kingdom",
+            "city": "LONDON",
+            "lat": "51.5072",
+            "lng": "0.1276",
+            "imgsrc": "./assets/united-kingdom-img.svg"
+        },
+        {
+            "icon": "",
+            "text": "Abu Dhabi",
+            "size": 1.0,
+            "country": "UAE",
+            "city": "Abu Dhabi",
+            "lat": "24.4539",
+            "lng": "54.3773",
+            "imgsrc": "./assets/UAE.svg"
+        },
+        {
+            "icon": "",
+            "text": "Riyadh",
+            "size": 1.0,
+            "country": "Kingdom of Saudi Arabia",
+            "city": "Riyadh",
+            "lat": "24.7136",
+            "lng": "46.6753",
+            "imgsrc": "./assets/SaudiArabia.svg"
+        },
+        {
+            "icon": "",
+            "text": "Seoul",
+            "size": 1.0,
+            "country": "SouthKorea",
+            "city": "Seoul",
+            "lat": "37.5503",
+            "lng": "126.9971",
+            "imgsrc": "./assets/SouthKorea.svg"
+        },
+        {
+            "icon": "",
+            "text": "Bern",
+            "size": 1.0,
+            "country": "Switzerland",
+            "city": "Bern",
+            "lat": "46.9480",
+            "lng": "7.4474",
+            "imgsrc": "./assets/Switzerland.svg"
+        },
+        {
+            "icon": "",
+            "text": "Washington, D.C.",
+            "size": 1.0,
+            "country": "USA",
+            "city": "Washington, D.C.",
+            "lat": "38.9072",
+            "lng": "-77.0369",
+            "imgsrc": "./assets/USA.svg"
+        },
+        {
+            "icon": "",
+            "text": "Singapore",
+            "size": 1.0,
+            "country": "Singapore",
+            "city": "Singapore",
+            "lat": "1.3521",
+            "lng": "103.8198",
+            "imgsrc": "./assets/Singapore.svg"
+        }
+    ]
+}

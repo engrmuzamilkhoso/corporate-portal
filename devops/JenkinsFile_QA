@@ -1,0 +1,13 @@
+node {
+    stage ("Load Configurations"){
+        dir('devops/') {
+            git branch: 'corporate-portal-frontend', credentialsId: 'prod-bitbucket-ap', url: 'https://bitbucket.org/simpaisa1/deployment_config.git'
+        }
+    }
+    stage('Preparing Files') {
+        load 'devops/qa/ssm-JenkinsFile'
+    }
+    stage('End') {
+        echo "Finished !!"
+    }
+}

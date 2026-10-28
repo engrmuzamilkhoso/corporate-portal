@@ -1,0 +1,23 @@
+{
+  "reportName": "Collection_Single_20241119115900.csv",
+  "format": "csv",
+  "criteria": {
+    "dateRange": {
+      "fromDate": "2024-11-19",
+      "toDate": "2024-11-19",
+      "today": true
+    },
+    "conditions": {
+      "category": "collection",
+      "merchant": [1000004],
+      "status": ["1"],
+      "operator": 100005,
+      "transactionType": "single",
+      "region": "Pakistan"
+    },
+    "fieldType": "full",
+    "criteriaType": "custom",
+    "fields": []
+  },
+  "status": "pending"
+}

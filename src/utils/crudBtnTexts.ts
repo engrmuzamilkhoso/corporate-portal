@@ -1,0 +1,11 @@
+export const save = 'Save';
+export const update = 'Update';
+export const deactivate = 'Deactivate';
+export const activate = 'Activate';
+export const remove = 'Delete';
+export const cancel = 'Cancel';
+export const confirm = 'Confirm';
+export const approve = 'Approve';
+export const reject = 'Reject';
+export const inreview = 'In Review';
+export const Close = 'Close';

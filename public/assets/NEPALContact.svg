@@ -1,0 +1,31 @@
+<svg width="25" height="32" viewBox="0 0 25 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_9999_109117" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="25" height="32">
+<path d="M25 0H0V31.1287H25V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_9999_109117)">
+<path d="M1.17679 2.13611L20.6409 14.3195H5.64165L21.2681 29.943H1.17719L1.17679 2.13611ZM0 0V31.1287H24.112L8.48874 15.4991H24.7453L0 0Z" fill="#22368F"/>
+</g>
+<mask id="mask1_9999_109117" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="25" height="32">
+<path d="M25 0H0V31.1287H25V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask1_9999_109117)">
+<path d="M0.585938 1.06787V30.5387H22.6832L7.06271 14.909H22.6832L0.585938 1.06787Z" fill="#BC0030"/>
+</g>
+<mask id="mask2_9999_109117" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="25" height="32">
+<path d="M25 0H0V31.1287H25V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask2_9999_109117)">
+<mask id="mask3_9999_109117" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="25" height="32">
+<path d="M25 0H0V31.1287H25V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask3_9999_109117)">
+<path d="M6.11912 14.1204C8.55323 14.1204 10.5219 12.1458 10.5219 9.7241C10.137 10.699 9.43523 11.5125 8.54722 12.0528L8.17152 11.7672L8.91056 11.2084L8.01652 10.985L8.48517 10.1903L7.56909 10.3144L7.70247 9.40159L6.90461 9.87342L6.67788 8.97943L6.11873 9.71842L5.56597 8.97943L5.3393 9.87342L4.54139 9.40159L4.67159 10.3144L3.7555 10.1903L4.22738 10.985L3.33017 11.2084L4.07557 11.7672L3.69346 12.0528C2.80224 11.5125 2.10367 10.699 1.71875 9.7241C1.72276 12.1462 3.69142 14.1204 6.11912 14.1204Z" fill="white"/>
+</g>
+<mask id="mask4_9999_109117" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="25" height="32">
+<path d="M25 0H0V31.1287H25V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask4_9999_109117)">
+<path d="M9.00339 23.4975L10.8291 22.7212L9.00339 21.9449L10.1986 20.3551L8.22435 20.6039L8.46628 18.6292L6.8797 19.8276L6.10022 17.9955L5.3272 19.8276L3.73783 18.6292L3.97976 20.6039L2.00828 20.3551L3.20669 21.9449L1.375 22.7212L3.20669 23.4975L2.00828 25.0872L3.97976 24.8449L3.73783 26.8196L5.3272 25.6147L6.10022 27.4528L6.8797 25.6147L8.46628 26.8196L8.22435 24.8449L10.1986 25.0872L9.00339 23.4975Z" fill="white"/>
+</g>
+</g>
+</svg>

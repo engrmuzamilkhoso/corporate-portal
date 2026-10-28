@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 433 450" style="enable-background:new 0 0 433 450;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#1FB35B;}
+	.st1{fill:#198043;}
+	.st2{fill:#D8DFE3;}
+	.st3{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st4{fill:#AFBDC7;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'ArialRoundedMTBold';}
+	.st7{font-size:136.7907px;}
+</style>
+<g>
+	<path class="st0" d="M409.7,266.4H69.5v-26.8H0V290v5.2v131.1C0,439.4,10.6,450,23.7,450h386c13.1,0,23.7-10.6,23.7-23.7V290
+		C433.4,277,422.8,266.4,409.7,266.4z"/>
+	<path class="st1" d="M142.8,266.4H23.7C10.6,266.4,0,255.7,0,242.6v-2.3c0-13.2,10.7-23.9,23.9-23.9h118.9V266.4z"/>
+	<path class="st2" d="M308.8,0H73.1C59.7,0,48.9,10.8,48.9,24.2v242.2h342.8V108.2"/>
+	<path class="st3" d="M308.8,0"/>
+	<path class="st3" d="M391.7,108.2"/>
+	<path class="st4" d="M391.7,104v4.2h-57.4c-14.1,0-25.5-11.4-25.5-25.5V0h3.4c0.9,0,1.8,0.4,2.4,1.2L391.7,104z"/>
+	<path class="st0" d="M233.4,116.5H124.5c-4.7,0-8.5-3.8-8.5-8.5v-0.3c0-4.7,3.8-8.5,8.5-8.5h108.9c4.7,0,8.5,3.8,8.5,8.5v0.3
+		C241.9,112.7,238.1,116.5,233.4,116.5z"/>
+	<path class="st0" d="M317.7,166.5H124.5c-4.7,0-8.5-3.8-8.5-8.5v-0.3c0-4.7,3.8-8.5,8.5-8.5h193.2c4.7,0,8.5,3.8,8.5,8.5v0.3
+		C326.2,162.6,322.4,166.5,317.7,166.5z"/>
+	<path class="st0" d="M317.7,217.4H124.5c-4.7,0-8.5-3.8-8.5-8.5v-0.3c0-4.7,3.8-8.5,8.5-8.5h193.2c4.7,0,8.5,3.8,8.5,8.5v0.3
+		C326.2,213.6,322.4,217.4,317.7,217.4z"/>
+	<text transform="matrix(1 0 0 1 73.1607 410.8389)" class="st5 st6 st7">CSV</text>
+</g>
+</svg>
